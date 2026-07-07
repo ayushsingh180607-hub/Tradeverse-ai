@@ -1,0 +1,6 @@
+{
+  "name": "TradeVerse AI",
+  "description": "Learn, practice, and master Indian stock trading with real-time paper trading, F&O simulator, interactive quizzes, and an AI Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
